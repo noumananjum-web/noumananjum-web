@@ -1,4 +1,8 @@
-
+<h1 align="center">Hi 👋, I'm Nouman Anjum</h1>
+<h3 align="center">BSCS Student | Aspiring Data Analyst | Python | SQL | Power BI</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=BSCS+Student;Aspiring+Data+Analyst;Python+Developer;SQL+%7C+Power+BI+%7C+Excel;Always+Learning+New+Technologies" />
+</p>
  Hi 👋, I'm Nouman Anjum
 
 - 🎓 About Me
@@ -11,6 +15,9 @@
 ---
 
 ## 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql,git,github,vscode" />
+</p>
 
 - 🐍 Python
 - 🗄️ SQL
@@ -40,3 +47,11 @@
 ---
 
 ⭐ Thanks for visiting my GitHub profile!
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=noumananjum-web&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=noumananjum-web&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=noumananjum-web&layout=compact&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=noumananjum-web&color=blue)
