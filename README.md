@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**noumananjum-web/noumananjum-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi 👋, I'm Nouman Anjum
 
-Here are some ideas to get you started:
+- 🎓 About Me
+- 🎓 BSCS Student
+- 📊 Aspiring Data Analyst
+- 💻 Learning Python, SQL, Excel & Power BI
+- 🌱 Currently improving my Data Analytics and Programming skills
+- 🚀 Open to Internship Opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Power BI
+- 📈 Microsoft Excel
+- 💻 C++
+- 🌐 HTML, CSS
+- 🛢️ MySQL
+- 🔧 Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+- Data Analytics
+- Data Visualization
+- Machine Learning
+- Python Projects
+- Power BI Dashboards
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/nouman-anjum-047b86335
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
